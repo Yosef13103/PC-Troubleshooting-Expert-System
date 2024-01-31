@@ -12,9 +12,9 @@ System containing three main diagnosing paths, to specify each issue easily.
 |L	| Device Performance Lagging | The PC opens but is slow and laggy, sometime to the point of crashing. |
 
 ## Running
-Has to be run locally with SWI-Prolog installed on the machine and not sandboxed on a website.
-Type "Consult("PCTSE.pl")."
-Type "start."
+Has to be run locally with SWI-Prolog installed on the machine and not sandboxed on a website.  
+Type "Consult("PCTSE.pl")."  
+Type "start."  
 
 ## End Result
 After reaching an end case, the system will print out the steps taken and the answers provided, as well as the achieved diagnosis based on the users replies.
