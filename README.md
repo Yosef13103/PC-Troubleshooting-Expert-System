@@ -1,4 +1,4 @@
-# PC Troubleshooting Prolog
+# PC Troubleshooting Prolog System
 Prolog code to help a user diagnose possible issues with their PC. Focusing mainly on Desktop computers, although can slightly apply to laptops as well. 
 The system asks the user a question to which the user responds with the appropriate response. With each answer given, advice is returned on the next appropriate step the user must perform. All steps following the provided flowchart.
 
